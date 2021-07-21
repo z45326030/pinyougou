@@ -1,0 +1,12 @@
+com\pinyougou\shop\controller\BrandController.class
+com\pinyougou\shop\controller\ItemController.class
+com\pinyougou\shop\controller\ItemCatController.class
+com\pinyougou\shop\controller\GoodsController.class
+com\pinyougou\shop\controller\SpecificationOptionController.class
+com\pinyougou\shop\controller\GoodsDescController.class
+com\pinyougou\shop\controller\SellerController.class
+com\pinyougou\service\UserDetailsServiceImpl.class
+com\pinyougou\shop\controller\LoginController.class
+com\pinyougou\shop\controller\TypeTemplateController.class
+com\pinyougou\shop\controller\SpecificationController.class
+com\pinyougou\shop\controller\UploadController.class

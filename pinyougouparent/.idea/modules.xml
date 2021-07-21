@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-parent.iml" filepath="$PROJECT_DIR$/pinyougou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoucartinterface/pinyougoucartinterface.iml" filepath="$PROJECT_DIR$/pinyougoucartinterface/pinyougoucartinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoucartservice/pinyougoucartservice.iml" filepath="$PROJECT_DIR$/pinyougoucartservice/pinyougoucartservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoucartweb/pinyougoucartweb.iml" filepath="$PROJECT_DIR$/pinyougoucartweb/pinyougoucartweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoucommon/pinyougoucommon.iml" filepath="$PROJECT_DIR$/pinyougoucommon/pinyougoucommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoucontentinterface/pinyougoucontentinterface.iml" filepath="$PROJECT_DIR$/pinyougoucontentinterface/pinyougoucontentinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoucontentservice/pinyougoucontentservice.iml" filepath="$PROJECT_DIR$/pinyougoucontentservice/pinyougoucontentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoudao/pinyougoudao.iml" filepath="$PROJECT_DIR$/pinyougoudao/pinyougoudao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoumanagerweb/pinyougoumanagerweb.iml" filepath="$PROJECT_DIR$/pinyougoumanagerweb/pinyougoumanagerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouorderinterface/pinyougouorderinterface.iml" filepath="$PROJECT_DIR$/pinyougouorderinterface/pinyougouorderinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouorderservice/pinyougouorderservice.iml" filepath="$PROJECT_DIR$/pinyougouorderservice/pinyougouorderservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoupageinterface/pinyougoupageinterface.iml" filepath="$PROJECT_DIR$/pinyougoupageinterface/pinyougoupageinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoupageservice/pinyougoupageservice.iml" filepath="$PROJECT_DIR$/pinyougoupageservice/pinyougoupageservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouparent.iml" filepath="$PROJECT_DIR$/pinyougouparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoupojo/pinyougoupojo.iml" filepath="$PROJECT_DIR$/pinyougoupojo/pinyougoupojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouportalweb/pinyougouportalweb.iml" filepath="$PROJECT_DIR$/pinyougouportalweb/pinyougouportalweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousearchinterface/pinyougousearchinterface.iml" filepath="$PROJECT_DIR$/pinyougousearchinterface/pinyougousearchinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousearchservice/pinyougousearchservice.iml" filepath="$PROJECT_DIR$/pinyougousearchservice/pinyougousearchservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousearchweb/pinyougousearchweb.iml" filepath="$PROJECT_DIR$/pinyougousearchweb/pinyougousearchweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousellergoodsinterface/pinyougousellergoodsinterface.iml" filepath="$PROJECT_DIR$/pinyougousellergoodsinterface/pinyougousellergoodsinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousellergoodsservice/pinyougousellergoodsservice.iml" filepath="$PROJECT_DIR$/pinyougousellergoodsservice/pinyougousellergoodsservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougoushopweb/pinyougoushopweb.iml" filepath="$PROJECT_DIR$/pinyougoushopweb/pinyougoushopweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousmsservice/pinyougousmsservice.iml" filepath="$PROJECT_DIR$/pinyougousmsservice/pinyougousmsservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougousolrutil/pinyougousolrutil.iml" filepath="$PROJECT_DIR$/pinyougousolrutil/pinyougousolrutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouuserinterface/pinyougouuserinterface.iml" filepath="$PROJECT_DIR$/pinyougouuserinterface/pinyougouuserinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouuserservice/pinyougouuserservice.iml" filepath="$PROJECT_DIR$/pinyougouuserservice/pinyougouuserservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougouuserweb/pinyougouuserweb.iml" filepath="$PROJECT_DIR$/pinyougouuserweb/pinyougouuserweb.iml" />
+    </modules>
+  </component>
+</project>
