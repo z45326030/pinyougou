@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+						http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd">
+
+	<http pattern="/login.html" security="none"></http>
+	<!--配制页面的拦截规则-->
+	<http use-expressions="false">
+		<intercept-url pattern="/*" access="ROLE_USER"></intercept-url>
+		<form-login login-page="/login.html" always-use-default-target="true" default-target-url="/index.html" />
+		<logout/>
+		<csrf disabled="true"></csrf>
+	</http>
+
+	<authentication-manager>
+		<authentication-provider>
+			<user-service>
+				<user name="admin" password="123456" authorities="ROLE_USER"></user>
+			</user-service>
+		</authentication-provider>
+	</authentication-manager>
+</beans:beans>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.csource.fastdfs:fastdfs:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://G:/pinyougou-soft/repository_pinyougou/org/csource/fastdfs/fastdfs/1.0-SNAPSHOT/fastdfs-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/csource/fastdfs/fastDFS/1.0-SNAPSHOT/fastDFS-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://G:/pinyougou-soft/repository_pinyougou/org/csource/fastdfs/fastdfs/1.0-SNAPSHOT/fastdfs-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/csource/fastdfs/fastDFS/1.0-SNAPSHOT/fastDFS-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://G:/pinyougou-soft/repository_pinyougou/org/csource/fastdfs/fastdfs/1.0-SNAPSHOT/fastdfs-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
