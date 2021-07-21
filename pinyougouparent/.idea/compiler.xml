@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pingyougoucontentinterface" />
+        <module name="pinyougou-common" />
+        <module name="pinyougoucartinterface" />
+        <module name="pinyougoucartservice" />
+        <module name="pinyougoucartweb" />
+        <module name="pinyougoucommon" />
+        <module name="pinyougoucontentinterface" />
+        <module name="pinyougoucontentservice" />
+        <module name="pinyougoudao" />
+        <module name="pinyougoumanagerweb" />
+        <module name="pinyougouorderinterface" />
+        <module name="pinyougouorderservice" />
+        <module name="pinyougoupageinterface" />
+        <module name="pinyougoupageservice" />
+        <module name="pinyougoupojo" />
+        <module name="pinyougouportalweb" />
+        <module name="pinyougousearchinterface" />
+        <module name="pinyougousearchservice" />
+        <module name="pinyougousearchweb" />
+        <module name="pinyougousellergoodsinterface" />
+        <module name="pinyougousellergoodsservice" />
+        <module name="pinyougoushopweb" />
+        <module name="pinyougousmsservice" />
+        <module name="pinyougousolrutil" />
+        <module name="pinyougouuserinterface" />
+        <module name="pinyougouuserservice" />
+        <module name="pinyougouuserweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pingyougoucontentinterface" target="1.7" />
+      <module name="pinyougou-common" target="1.7" />
+      <module name="pinyougou-parent" target="1.7" />
+      <module name="pinyougoucartinterface" target="1.7" />
+      <module name="pinyougoucartservice" target="1.7" />
+      <module name="pinyougoucartweb" target="1.7" />
+      <module name="pinyougoucommon" target="1.7" />
+      <module name="pinyougoucontentinterface" target="1.7" />
+      <module name="pinyougoucontentservice" target="1.7" />
+      <module name="pinyougoudao" target="1.7" />
+      <module name="pinyougoumanagerweb" target="1.7" />
+      <module name="pinyougouorderinterface" target="1.7" />
+      <module name="pinyougouorderservice" target="1.7" />
+      <module name="pinyougoupageinterface" target="1.7" />
+      <module name="pinyougoupageservice" target="1.7" />
+      <module name="pinyougouparent" target="1.7" />
+      <module name="pinyougoupojo" target="1.7" />
+      <module name="pinyougouportalweb" target="1.7" />
+      <module name="pinyougousearchinterface" target="1.7" />
+      <module name="pinyougousearchservice" target="1.7" />
+      <module name="pinyougousearchweb" target="1.7" />
+      <module name="pinyougousellergoodsinterface" target="1.7" />
+      <module name="pinyougousellergoodsservice" target="1.7" />
+      <module name="pinyougoushopweb" target="1.7" />
+      <module name="pinyougousmsservice" target="1.7" />
+      <module name="pinyougousolrutil" target="1.7" />
+      <module name="pinyougouuserinterface" target="1.7" />
+      <module name="pinyougouuserservice" target="1.7" />
+      <module name="pinyougouuserweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

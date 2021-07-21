@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucartservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucartweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucontentservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoumanagerweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouorderservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoupageservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouportalweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousearchservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousearchweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousellergoodsservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoushopweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousmsservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouuserservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouuserweb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouuserinterface/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
