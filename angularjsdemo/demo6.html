@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>angularJS demo 双向绑定</title>
+<script src="angular.min.js"></script>
+<script>
+var app=angular.module("myApp",[]);
+
+app.controller("myController",function($scope,$http){
+
+	/*$scope.list=[
+		{name:"fafa",shuxue:21,yuwen:34},
+		{name:"ruirui",shuxue:31,yuwen:44}
+				];
+	*/
+	
+	$scope.findList=function(){
+		$http.get("data.json").success(function(response){
+			$scope.list=response;
+		}
+	}
+	
+	$scope.findList();
+
+});
+
+</script>
+
+</head>
+<body ng-app="myApp" ng-controller="myController">
+
+	<table>
+		<tr ng-repeat="x in list">
+			<td>
+				{{x.name}}
+			</td>
+			<td>
+				{{x.shuxue}}
+			</td>
+			<td>
+				{{x.yuwen}}
+			</td>
+		</tr>
+	</table>
+
+</body>
+</html>

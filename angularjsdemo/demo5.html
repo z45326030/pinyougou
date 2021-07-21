@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>angularJS demo 双向绑定</title>
+<script src="angular.min.js"></script>
+<script>
+var app=angular.module("myApp",[]);
+
+app.controller("myController",function($scope){
+
+	$scope.add=function(){
+		$scope.z = parseInt($scope.x)+parseInt($scope.y);
+	}
+
+});
+
+</script>
+
+</head>
+<body ng-app="myApp" ng-controller="myController">
+
+x:<input ng-model="x"> y:<input ng-model="y">
+
+<button ng-click="add()">运算</button>
+{{z}}
+
+</body>
+</html>
